@@ -7,4 +7,4 @@ Learn Coding in Python.
 # Python
 Python tutorial
 
-Drop a star and follow for more
+Drop a star and follow for more.
