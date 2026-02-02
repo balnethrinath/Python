@@ -3,7 +3,7 @@
 Some commonly asked python programs.
 New Python Programms.
 Learn Coding in Python.
-Simple Programms
+Simple Programms using Python.
 
 # Python codes
 Python tutorial.
