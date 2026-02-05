@@ -4,7 +4,7 @@ Some commonly asked python programs.
 New Python Programms.
 Learn Coding in Python.
 Simple Programms using Python.
-Easy Code.
+Easy Python Code.
 # Python codes
 Python tutorial.
 
