@@ -6,7 +6,7 @@ Learn Coding in Python.
 Simple Programms using Python.
 Easy Python Codes.
 # Python codes
-Python tutorial.
+Python tutorial for beginners.
 
 Drop a star and follow for more.
 Lets Connect.
